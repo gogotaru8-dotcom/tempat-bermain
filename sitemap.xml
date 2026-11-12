@@ -1,9 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://situstotosloto.autos/</loc>
-    <lastmod>2026-03-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
+
+    <!-- Halaman Utama (Homepage) -->
+    <url>
+        <loc>https://situstotosloto.autos/</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Artikel 1 -->
+    <url>
+        <loc>https://situstotosloto.autos/artikel1-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Artikel 2 -->
+    <url>
+        <loc>https://situstotosloto.autos/artikel2-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Artikel 3 -->
+    <url>
+        <loc>https://situstotosloto.autos/artikel3-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Artikel 4 -->
+    <url>
+        <loc>https://situstotosloto.autos/artikel4-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Halaman Live Chat -->
+    <url>
+        <loc>https://situstotosloto.autos/live-chat-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Halaman Pola Bermain -->
+    <url>
+        <loc>https://situstotosloto.autos/pola-bermain-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Halaman Prediksi Togel -->
+    <url>
+        <loc>https://situstotosloto.autos/prediksi-togel-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Halaman RTP Live -->
+    <url>
+        <loc>https://situstotosloto.autos/rtp-live-totosloto.html</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
 </urlset>
